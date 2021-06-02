@@ -1,0 +1,11 @@
+body{
+    background-color: burlywood;
+}
+td{
+    font: inherit;
+    font-size: 20px;
+}
+.letra{
+    color: white;
+    background-color: indianred;
+}
